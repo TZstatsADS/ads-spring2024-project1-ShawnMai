@@ -1,5 +1,5 @@
 # Applied Data Science @ Columbia
-## Fall 2023
+## Spring 2024
 ## Project 1: What made you happy today?
 
 ![image](figs/title.jpeg)
@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2024
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Discovering the Ingredients of Happiness
++ This project is conducted by Xiaoyu Mai
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: This report aims to uncover the various factors contributing to happiness, as expressed in people's daily lives. The investigation is based on the analysis of the 'cleaned_hm.csv' dataset, which consists of cleaned and processed textual data representing individuals' happy moments.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
